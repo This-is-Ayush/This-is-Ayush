@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @This-is-Ayush
+- 👋 Hi, I’m Ayush Gupta
 - 👀 I’m interested in web development, fronted designing
 - 🌱 Known tech skills is C++, Java, Html, CSS, Bootstrap
 - 💞️ I’m looking to collaborate a good company that offers me vital role for my professional experience with Growth
