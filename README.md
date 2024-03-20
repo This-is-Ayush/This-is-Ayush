@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Ayush Gupta
-- 👀 I’m interested in web development, fronted designing
+- 👋 Hi, I’m Ayush Gupta (Management professional in Supply Chain & Business Analyst)
+- 👀 I’m interested in Web development, fronted designing
 - 🌱 Known tech skills is Python, SQL and Some Tech Languages.
 - ALso Known tools such as PowerBI, Canva, Jeera
 - 💞️ I’m looking to collaborate a good company that offers me vital role for my professional experience with Growth
